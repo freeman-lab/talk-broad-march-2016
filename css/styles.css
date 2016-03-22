@@ -36,7 +36,7 @@ section {
   background: rgb(230,230,230);
   text-align: center;
   color: rgb(80,80,80);
-  padding: 10px;
+  padding: 0px;
 }
 
 .full {
@@ -46,7 +46,7 @@ section {
 }
 
 .full-image {
-  padding-top:5em;
+  padding: 0px;
 }
 
 h1 {
@@ -204,7 +204,7 @@ a:hover {
   font-size: 28px;
   position: absolute;
   bottom: 0px;
-  margin-bottom: 90px;
+  margin-bottom: 120px;
   right: 80px;
   opacity: 0.7;
 }
